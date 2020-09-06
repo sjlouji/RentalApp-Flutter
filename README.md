@@ -1,7 +1,7 @@
 # Flutter Rental App UI. 
 
 Flutter Rental App UI. 
-This is a simple flutter application where I have Rental App UI.
+This is a simple flutter application where I have Designed Rental App UI.
 Created by [Joan Louji](https://joanlouji.web.app/)
 
 ## Installation
